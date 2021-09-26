@@ -1,0 +1,49 @@
+.primeiradiv{
+box-sizing: border-box;
+border-style: solid;
+border-color: black;
+border-width: 1px;
+
+} 
+.segundadiv{
+box-sizing: border-box;
+border-style:solid;
+border-color: black;
+border-width: 1px;
+
+}
+.terceiradiv{
+box-sizing:border-box;
+border-style: solid;
+border-color: black;
+border-width: 1px;
+
+}
+.quartadiv{
+box-sizing: border-box;
+border-style: solid;
+border-color: black;
+border-width: 1px;
+} 
+.quintadiv{
+box-sizing: border-box;
+margin-left: 555px;
+}
+.img1{
+margin-left: 525px;
+}
+.img2{
+margin-left: 525px;
+}
+.img3{
+margin-left: 525px;
+}
+.img4{
+margin-left: 525px;
+} 
+.btn{
+border-radius: 10px;
+}
+.btnf{
+border-radius: 10px;
+}
